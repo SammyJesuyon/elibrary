@@ -31,10 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
-
 target/
-
-.classpath
-.project
-.settings/
 .DS_Store
